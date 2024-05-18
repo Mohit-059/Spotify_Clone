@@ -1,0 +1,25 @@
+.invert{
+    filter:invert(1);
+}
+
+.left_box{
+    background-color:#121212;
+    border-radius:10px;
+    margin-left:20px;
+    margin-top:10px;
+}
+
+.svg_logo{
+    width:20px;
+    padding-right:15px;
+}
+
+
+.flex{
+    display:flex;
+    align-items:center;
+}
+
+.song_list ul li{
+    list-style-type: decimal;
+}
