@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="50" height="50">
+    <!-- Circle -->
+    <circle cx="50" cy="50" r="45" fill="#00da6b" />
+
+    <!-- Play sign -->
+    <path fill="white" d="M40 25v50l30-25z" />
+</svg>
